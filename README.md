@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahrabardestani
 - 👀 I’m interested in Python and AI .
 - 🌱 I’m currently learning Python .
-- 💞️ I’m looking to collaborate on software developing specially in AR projects .
+- 💞️ I’m looking to collaborate on software developing specially in AI projects .
 - 📫 How to reach me : via my instagram : _zahra_bzb
 
 <!---
